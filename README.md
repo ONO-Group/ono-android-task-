@@ -1,6 +1,6 @@
 # Ackee Cookbook Android Version
 
-Welcome, stranger! Wanna join us at [Ackee][1]? Or you just don't know what to do on a lazy sunday afternoon ?
+Welcome, stranger! Wanna join us at [Slack[1]? Or you just don't know what to do on a lazy sunday afternoon ?
 
 We have a tasty Task for you! Create an Android version of our delicious Ackee recipes. We have everything you need to get you started
 - API (and a running server)
@@ -38,7 +38,7 @@ Application should contain these 3 screens. You can also download a Sketch app f
 - If you want to add anything extra, just go for it!
 - Send it to us as link to dropbox / GDrive / etc..
 
-[1]:	https://ackee.cz
+[1]:https://join.slack.com/t/0n0/shared_invite/enQtMjcxMDU3NzQ5OTg3LTlmNDM4NzE1NWY2YWM5NjRlNmIxMDM1MDQ4NGIwMWQ5NmZkNDY2N2IyZDNhNmJjZjVhMmJkYTIwYzU2OGFiYjE
 [2]:	http://docs.cookbook3.apiary.io/#introduction/recipes
 [3]:	https://cookbook.ack.ee
 [4]:	https://raw.githubusercontent.com/AckeeCZ/cookbook-android-task/master/screens/ackee_cookbook.sketch

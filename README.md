@@ -1,4 +1,4 @@
-# Ackee Cookbook Android Version
+# ONO Cookbook Android Version
 
 Welcome, stranger! Wanna join us at [Slack[1]? Or you just don't know what to do on a lazy sunday afternoon ?
 

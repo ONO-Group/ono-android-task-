@@ -1,6 +1,6 @@
 # ONO Cookbook Android Version
 
-Welcome, stranger! Wanna join us at [Slack[1]? Or you just don't know what to do on a lazy sunday afternoon ?
+Welcome, stranger! Wanna join us at [Slack][1]? Or you just don't know what to do on a lazy sunday afternoon ?
 
 We have a tasty Task for you! Create an Android version of our delicious Ackee recipes. We have everything you need to get you started
 - API (and a running server)
